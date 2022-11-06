@@ -1,0 +1,566 @@
+------Info(2022-11-04 21:24:48.1003)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:Hi i am in index
+
+------Info(2022-11-04 21:24:50.2434)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:nkosana
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.2562)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.2562)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.2683)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.2683)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.2683)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.2874)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.2874)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.2975)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.2975)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.2975)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.3140)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.3140)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.3140)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.3301)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.3301)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.3301)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.3301)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.3475)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:50.3475)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:50
+
+------Info(2022-11-04 21:24:51.4124)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4124)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4254)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4254)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4254)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4396)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4396)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4396)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4572)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4572)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4572)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4732)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4732)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4732)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4873)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4873)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.4873)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.5023)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.5023)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:51.5023)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:51
+
+------Info(2022-11-04 21:24:56.5426)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.5482)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.5482)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.5482)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.5657)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.5657)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.5657)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.5823)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.5823)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.5823)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.5982)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.5982)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.5982)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.6148)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.6148)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.6148)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.6299)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.6299)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.6299)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:24:56.6299)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:24:56
+
+------Info(2022-11-04 21:25:26.6693)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.6773)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.6773)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.6773)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.6773)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.6963)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.6963)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.7073)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.7073)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.7073)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.7264)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.7264)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.7373)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.7373)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.7373)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.7563)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.7563)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.7563)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.7671)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:25:26.7671)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:25:26
+
+------Info(2022-11-04 21:26:26.8147)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.8147)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.8293)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.8293)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.8443)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.8443)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.8443)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.8623)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.8623)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.8623)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.8794)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.8794)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.8914)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.8914)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.8914)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.8914)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.9114)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.9114)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.9114)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:26:26.9234)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:26:26
+
+------Info(2022-11-04 21:35:49.8196)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:Hi i am in index
+
+------Info(2022-11-04 21:35:55.2595)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:nkosana
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.2705)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.2705)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.2705)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.2842)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.2842)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.2842)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.3004)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.3004)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.3004)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.3178)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.3178)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.3178)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.3324)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.3324)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.3324)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.3477)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.3477)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.3477)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:55.3606)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:55
+
+------Info(2022-11-04 21:35:56.4228)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.4228)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.4228)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.4384)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.4384)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.4384)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.4384)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.4594)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.4594)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.4695)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.4695)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.4695)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.4873)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.4873)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.4873)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.5058)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.5058)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.5164)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.5164)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+
+------Info(2022-11-04 21:35:56.5164)NKOSANA-LT------
+                       Exception Type: |                       Exception Message: |                       Stack Trace: |                       Additional Info:The controller for path '/Error/Index' was not found or does not implement IController.
+2022/11/04 21:35:56
+

@@ -1,14 +1,18 @@
-﻿using System.Web.Mvc;
+﻿using NLog;
+using System.Text.RegularExpressions;
+using System;
+using System.Web.Mvc;
 
 namespace DapperIdentityDemo.Controllers
 {
-    [Authorize(Roles = "Individual")]
+    //   [Authorize(Roles = "Individual")]
     public class HomeController : Controller
     {
         public ActionResult Index()
         {
             return View();
         }
+
 
         public ActionResult About()
         {
